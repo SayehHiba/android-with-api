@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ISIDoc</string>
+    <string name="light"> Light</string>
+    <string name="nous_facilitons_les_choses">nous facilitons les choses</string>
+    <string name="Username">User</string>
+    <string name="password">Pass</string>
+    <string name="forgot_password">Mot de passe oublié?</string>
+    <string name="todo">TODO</string>
+    <string name="connecter">Connecter</string>
+
+
+    <string-array name="process_array">
+        <item>Lily</item>
+        <item>Poppy</item>
+        <item>Sunflower</item>
+        <item>Freesia</item>
+        <item>Daisy</item>
+        <item>Rose</item>
+        <item>Daffodil</item>
+        <item>Lavender</item>
+        <item>Peony</item>
+        <item>Lilac</item>
+        <item>Dahlia</item>
+        <item>Tulip</item>
+        <item>Dandelion</item>
+    </string-array>
+</resources>
